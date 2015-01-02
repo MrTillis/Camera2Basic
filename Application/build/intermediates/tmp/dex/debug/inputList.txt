@@ -1,0 +1,7 @@
+/Users/VITRM/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/classes/debug
+/Users/VITRM/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-ea1766d247146238d033c09e02604364cef6dc62.jar
+/Users/VITRM/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-be512786dbd6588237b57896a09e70180afb5a45.jar
+/Users/VITRM/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-dc38c84b6759e7c1baafab3440cd71f17f76483c.jar
+/Users/VITRM/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-3e3cafc0beb9c5c7d9082409ba81f258e710b176.jar
+/Users/VITRM/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-917a445c3d8fcea629abaa1b5085cdc2eb98b5b1.jar
+/Users/VITRM/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-814f05ddd3622172a755b9ac3c459e436b9b4391.jar
